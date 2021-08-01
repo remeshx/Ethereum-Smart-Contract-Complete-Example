@@ -1,6 +1,6 @@
-# Etherium Smart Contract Complete Example
+# Ethereum Smart Contract Complete Example
 
-Etherium Smart Contract and calling Payable function within it
+Ethereum Smart Contract and calling Payable function within it
 
 This Repo has two folders
 1- Contract : A simple contract that manages payment shares.
